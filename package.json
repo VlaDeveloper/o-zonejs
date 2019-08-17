@@ -1,0 +1,24 @@
+{
+  "name": "o-zonejs",
+  "version": "1.0.0",
+  "description": "O-zonejs lesson",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VlaDeveloper/o-zonejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VlaDeveloper/o-zonejs/issues"
+  },
+  "homepage": "https://github.com/VlaDeveloper/o-zonejs#readme",
+  "devDependencies": {
+    "webpack": "^4.39.2",
+    "webpack-cli": "^3.3.6"
+  }
+}
